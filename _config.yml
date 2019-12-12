@@ -1,0 +1,42 @@
+# Site settings
+title: Emerald | A simple Jekyll blog
+tagline: "Cat Friends Sweet Home"
+description: "고양이 두 마리와 함께 사는 쉐어하우스 운영기."
+url: "https://kalamel.com"
+author:
+  name: "Karamel"
+  email: "jisu9329@gmail.com"
+  url: "https://kalamel.com"
+
+# Build settings
+baseurl: /
+markdown: kramdown
+permalink: /:title
+paginate: 8
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+
+# 블로그 disqus shortname
+disqus:
+  shortname: karamel-com
