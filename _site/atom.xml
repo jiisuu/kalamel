@@ -4,12 +4,22 @@
  <title>깔라멜하우스</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2019-12-16T16:36:32+09:00</updated>
+ <updated>2019-12-18T17:51:06+09:00</updated>
  <author>
    <name>Karamel</name>
    <uri>https://kalamel.com</uri>
    <email>jisu9329@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>집구하기 2. 부동산 찾아가기</title>
+   <link href="http://localhost:4000/kalamel.com/befor-you-got-home02/"/>
+   <id>http://localhost:4000/kalamel.com/before-you-got-home02</id>
+   <updated>2019-12-17T20:00:00+09:00</updated>
+   <content type="html">&lt;h1 id=&quot;집구하기-2---부동산-찾아가기&quot;&gt;집구하기 2 - 부동산 찾아가기&lt;/h1&gt; &lt;p&gt;직방 다방 등등 방어플에서 허위매물 거르기&lt;/p&gt; &lt;h3 id=&quot;신축-빌라-깡통전세-사기매물-이사비를-지원해준다고&quot;&gt;신축 빌라? 깡통전세? 사기매물? 이사비를 지원해준다고??&lt;/h3&gt; &lt;p&gt;부동산 어플을 열어 집을 보다가 ‘정말 이사가 가능하긴 한걸까’ 이런 생각이 들었다.&lt;/p&gt; &lt;p&gt;부동산 어플에서 집 보는일이 너무 피곤했던 이유&lt;/p&gt; &lt;ol&gt; &lt;li&gt; &lt;p&gt;동네 시세를 모르지만 이건 너무 비싸다(그냥패스)&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;조금 맘에...</content>
+ </entry>
 
  
 
