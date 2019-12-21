@@ -4,3 +4,8 @@
 
 //Import
 @import "base", "mixin", "typography", "layout", "syntax.scss", "custom.scss";
+
+@font-face {
+    font-family: "DXSnUB-KSCpc-EUC-H";
+        src: url( '../_assets/fonts/DXSnUB-KSCpc-EUC-H.ttf') format( 'truetype');
+}
